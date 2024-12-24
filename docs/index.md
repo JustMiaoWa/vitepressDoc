@@ -8,18 +8,18 @@ hero:
   tagline: 文档库均来自网络，如有侵权，请联系删除
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 开始浏览
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 关于站长
+      link: https://www.wazicode.top
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 记录复盘
+    details: 记录就像是复盘，迭代自己，不断试错，反馈。多动手，多实践才是真理。
+  - title: 积少成多
+    details: 任何事情都是从1+1开始的，积少成多，量变引起质变，加油。
+  - title: 知识分享
+    details: 为别人鼓掌的人也是在给自己加油，如果文档对你有帮助，那我很开心。
 ---
 
