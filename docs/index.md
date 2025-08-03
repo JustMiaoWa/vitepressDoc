@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "红皮书"
-  text: "汇集计算机学习文档，助力成长"
+  text: "汇集计算机学习文档  助力成长"
   tagline: 文档库均来自网络，如有侵权，请联系删除
   actions:
     - theme: brand
