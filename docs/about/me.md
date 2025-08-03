@@ -6,5 +6,5 @@
 
 所有文章均首发在公众号，感兴趣的朋友可以点个关注，谢谢。
 
-<img src="http://docsimg.wazicode.top/gzh.png" style="zoom: 25%;" />
+<img src="https://doc.wazicode.top/proxy-images/gzh.png" style="zoom: 25%;" />
 
