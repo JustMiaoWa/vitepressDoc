@@ -10,6 +10,11 @@ export default defineConfig({
   // titleTemplate: false,
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
+    // 添加 CSP meta 标签
+    // ['meta', { 
+    //   'http-equiv': 'Content-Security-Policy', 
+    //   content: 'upgrade-insecure-requests' 
+    // }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -123,7 +128,11 @@ export default defineConfig({
             { 
               text: '我的故事', 
               items: [
-                { text: '25岁失业半年，没收入没存款，我选择进厂了', link: '/about/two' },
+                { text: '失业久了，内心总想"骑车"去旅行', link: '/about/six' },
+                { text: '既然找不到工作，那就好好享受生活', link: '/about/five' },
+                { text: '麦子熟了，我要往南走了', link: '/about/four' },
+                // { text: '前职业是程序员，现进厂两个月了，说说我的感受', link: '/about/three' },
+                // { text: '25岁失业半年，没收入没存款，我选择进厂了', link: '/about/two' },
                 { text: '很遗憾，25岁才开始记录我的人生', link: '/about/one' },
               ]
             }
@@ -172,7 +181,7 @@ export default defineConfig({
   transformPageData(pageData, ctx) {
     // 获取页面相对路径（如 "blog/post1.md"）
     const relativePath = pageData.relativePath;
-    console.log(pageData)
+    // console.log(pageData)
     // console.log("ctx",ctx)
     // console.log(relativePath);
     // 定义需要添加短语的路径前缀（支持数组）
