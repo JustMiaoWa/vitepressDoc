@@ -10,7 +10,7 @@ sidebar: auto
 
 ## 我的第一辆自组公路车
 
-<img src="http://docsimg.wazicode.top/glc1.jpg" style="zoom:25%;" />
+<img src="https://docsimg.wazicode.top/glc1.jpg" style="zoom:25%;" />
 
 轮组：pasak铝圈 /车圈40MM    五爪塔基   支持700x25c   支持法嘴          ￥389
 
